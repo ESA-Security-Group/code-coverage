@@ -1,0 +1,2572 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr" data-domain="www.verajohn.se" data-unique-code="VERAJOHN_SE">
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=0;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+  <title>Vera&John – det roliga casinot online!</title>
+
+
+
+  
+  
+    <meta  name="robots" content="index, follow" />
+  
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+  
+    
+      <meta  name="description" content="Över 300 000 vinster per dag hos Vera&John, det kan du väl inte låta bli att älska? Bli medlem och få 200% i bonus upp till 2 000 kr med din första insättning!" />
+    
+  
+
+
+
+
+
+  
+  
+
+
+
+
+	<link rel="canonical" href="https://www.verajohn.se">
+
+		
+		<link rel="alternate" href="https://mobile.verajohn.se">
+	
+
+
+
+    <meta charset="utf-8">
+<link rel="shortcut icon" href="/save/_embed/https://cdn.plaingaming.net/files/repository/105/1/263/all/all/image/favicon_1565252784.ico?q5my18&amp;RnaK&amp;A3g0" type="image/x-icon" />
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+
+
+
+    <meta http-equiv="Authorization" content="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1ODE2MzU4NDIsImV4cCI6MTU4MTYzNjE0MiwidXNlcm5hbWUiOiJhbm9uIn0.C39fN0CQGmrIEsTYFWBxTluZMrY2Z3BH0Sv0Fa8BL11A8KCeR6BrqVKNxdnvqrgalx3TqG3OSEovaffiexk5h2OLqHUMPV2yKxeuZ6AdiulTt18NW6eVeCexIcpL2iJVDf25I84Asg-xS9ReGXaS7R2ACugGCXVWjfRZ3VkNwFvmQKGENT1nbawy6we4vi_FZ19i1achoQBqMrnjFXFUjxajRvfWcUz0Tib1L_JhrDlmZVW9XwhGAwFDwiuONgXy_zwu-Nxp2Wi1pksbgSRrOULg_D8Sh1r5nQjhX2uymdmdhNJi4FsQEOiBN_S58_ljEzV1EmhyaptYStxvZ9OI_TX4sdXGE2HsXiJA8KLUE8OjGboye5q3n6Zenaz0flKSxPj3JYokiQXkbHoGCJPMz9bDJLVoZ7-lugD6iXlqSmghbwalQnYRoDfxWgCtbYjUAfrAEYBjJI_ooXKILXmFNiSQxCu__4TAgUKxxtZCjB4nZU_KUiuT9fKNFtIeJWLDS2iXP-ogAmIHNAZ7eOHLN6fNZAP0ZUjyXMnUTzK6YSWBZDngTQ-RFPxrpYisKr8MHtX3kYa6dIzeZE0cRzJLQUsXZhkbE7ByLjLMLRAx4tk5Fqrx5jEWxBNIpZKsIsD56qUorBsFwe1qP96Ein5elYPBVm4BUglLbi33ObfuSHA">
+<script>
+(function(){
+    var worker = new Worker('/fragment/json-web-token/assets/worker.refresh-token.v1.js');
+    var metaEl = document.querySelector('meta[http-equiv="Authorization"]');
+
+    worker.postMessage({
+        token: metaEl.content,
+        refreshURL: '/fragment/json-web-token/ajax/v1/refresh-token'
+    });
+
+    window.JWToken = metaEl.content;
+
+    worker.addEventListener('message', function(evt) {
+        if (evt.data.method === 'error') {
+            console.log('Worker error:', evt.data.error);
+            window.JWToken = null;
+            worker.terminate();
+        }
+
+        if (evt.data.method === 'updateToken') {
+            metaEl.content = evt.data.token;
+            window.JWToken = evt.data.token;
+        }
+    });
+})();
+</script>
+
+
+
+    
+
+<link href="/save/_embed/https://www.verajohn.se/fragment/brand/assets/brand_vj.cb0d5bc02c2ba8df7cd9.css" rel="stylesheet"/>
+
+<link rel="stylesheet" media="all" href="/save/_embed/https://cdn.plaingaming.net/files/css/css_c479cd039dd8ec04be40cc2ba86b5516.css?q5my18&amp;RnaK&amp;TEWI" />
+
+
+
+
+<script type="text/javascript">
+var State = State || {};
+State.playertoken = null;
+State.verificationstatus = null;
+State.ccode = "";
+State.status = "PREPREG";
+State.accountComplete = false;
+State.channel = "WWW";
+State.country = "US";
+State.url = "/save/https://www.verajohn.se";
+State.language = "sv";
+State.home_url = "/";
+State.unique_code = "VERAJOHN_SE";
+State.debug = false;
+State.notification = false;
+State.isIpad = "";
+State.cashThreshold = "";
+State.liveChatEnabled = true;
+State.liveHelperChatEnabled = false;
+
+    State.userIsTest = false;
+
+
+</script>
+
+
+
+<script>
+  window.webfront = window.webfront || {};
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+webfront.sitecontent = {"ajax_layer_shop_type.cash":"Kontant","ajax_layer_shop_type.consumer_goods":"Consumer goods","ajax_layer_shop_type.deposit_bonus":"Ins\u00e4ttningsbonus","ajax_layer_shop_type.freerounds":"Free Spins","ajax_layer_shop_type.specials":"Specialare","ajax_layer_shop_type.spin_credits":"Gratispengar","ajax_layer_shop_type.superspins":"Superspel","balance_currency.bonus":"Bonus","balance_currency.cash":"Kontant","balance_currency.coins":"Mynt","balance_currency.freerounds":"Free Spins","balance_currency.raffle_tickets":"Lotter","balance_currency.spin_credits":"Gratispengar","balance_currency.tickets":"Lotter","bonus_read_free_games.featuretrigger":"Trigger spins \u00e4r redo f\u00f6r dig! Du kan v\u00e4lja att spela !amount precis som du k\u00e4nner f\u00f6r.","bonus_read_free_games.featurewin":"Du har bel\u00f6nats med Hit spins, som ger dig obegr\u00e4nsat med snurr tills du f\u00e5r bonusfunktionen!","bonus_read_free_games.freerounds":"Du har [amount] free spins som v\u00e4ntar p\u00e5 dig p\u00e5 [gamename].","bonus_read_free_games.multi":"x[superspinvalue] Multiplier","bonus_read_free_games.singlewin":"Du har Thrill spins som v\u00e4ntar p\u00e5 dig, med en garanterad vinst p\u00e5 minst [amount] p\u00e5 ett snurr!","bonus_read_free_games.spincredits":"Du har [amount] i gratispengar som v\u00e4ntar p\u00e5 dig p\u00e5 [gamename].","bonus_read_free_games.topspins":"Du har f\u00e5tt Top Spins! Du f\u00e5r snurra [amount] g\u00e5nger och beh\u00e5lla vinsterna fr\u00e5n [topspins] b\u00e4sta snurr.","bonus_read_free_games.totalwin":"Du har Win spins med en garanterad minimumvinst av [amount] som v\u00e4ntar p\u00e5 dig\u2026","bonus_read_free_games.variablebetsize":"Pick spins \u00e4r redo f\u00f6r dig! Du kan v\u00e4lja att spela [amount] precis som du k\u00e4nner f\u00f6r.","bonus_read_free_games.wildpattern":"Vild","loyalty_shop_item_types.cash":"Kontant","loyalty_shop_item_types.consumer_goods":"Consumer goods","loyalty_shop_item_types.deposit_bonus":"Ins\u00e4ttningsbonus","loyalty_shop_item_types.freerounds":"Free Spins","loyalty_shop_item_types.spin_credits":"Gratispengar","loyalty_shop_item_types.superspins":"Superspel","overview_free_game_types.featuretrigger":"Trigger Spins","overview_free_game_types.featurewin":"Hit spins","overview_free_game_types.freerounds":"Free Spins","overview_free_game_types.singlewin":"Thrill Spins","overview_free_game_types.spincredits":"Gratispengar","overview_free_game_types.topspins":"Top Spins","overview_free_game_types.totalwin":"Win Spins","overview_free_game_types.variablebetsize":"Pick Spins","shop_categories.cash":"Kontant","shop_categories.consumer_goods":"Consumer goods","shop_categories.deposit_bonus":"Bonus kopp","shop_categories.freerounds":"Free Spins","shop_categories.specials":"Specialare","shop_categories.spin_credits":"Gratispengar","shop_categories.superspins":"Superspel","text_signup.reality_check":"Obligatoriskt f\u00e4lt. En verklighetskontroll kommer att meddela dig n\u00e4r du uppn\u00e5tt din f\u00f6rutbest\u00e4mda speltid.","vj_signup_success_free_spins.description":"Du har f\u00e5tt [amount] free spins p\u00e5 !game som v\u00e4lkomstpresent! Ta del av det roliga p\u00e5 en g\u00e5ng.","vj_signup_success_free_spins.header":"Free spins tillg\u00e4ngliga","vj_signup_success_free_spins.play_free_spins":"Spela mina Free Spins","headband_main_menu_casino_link_title":"VJ's Casino","our_mobile_apps_mobile_casino_title":"Mobilcasino","settings_resetpassword.button":"\u00c5terst\u00e4ll mitt l\u00f6senord","submenu_link_title_shop":"VJ Shop","text_live_chat.disabled":"Livechatten otillg\u00e4nglig","text_live_chat.enabled":"Live chatt"}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+webfront.translations = {"This field is required. A reality check will notify you when you have been playing for a set amount of time.":"Detta f\u00e4lt \u00e4r obligatoriskt. En verklighetskontroll meddelar dig n\u00e4r du har spelat upp till en viss tid.","This field is required.":"Detta f\u00e4lt kr\u00e4vs.","Invalid email address.":"Ogiltig mejladress","Email address already in use.":"Mejladress redan registrerad","Does not match.":"Matchar inte.","Invalid number.":"Ogiltigt nummer.","Only integers are allowed.":"Endast heltal till\u00e5tet!","CPR number already in use.":"CPR numret anv\u00e4nds redan.","Remove favourite":"Ta bort favorit","Make favourite":"Min favorit","Request error.":"Fel vid fr\u00e5ga","Text message could not be sent.":"SMS kunde inte skickas.","Invalid phone number.":"Ogiltigt telefonnummer","Email could not be sent.":"Mejlet kunde inte skickas.","Can only contain digits":"F\u00e5r bara inneh\u00e5lla siffror","Invalid display name.":"Ogiltigt anv\u00e4ndarnamn","Field contains invalid characters.":"Aj d\u00e5. F\u00e4ltet inneh\u00e5ller ogiltiga tecken.","Unknown error":"Ok\u00e4nt fel","Display name already in use.":"Anv\u00e4ndarnamn redan registrerat.","Invalid email.":"Ogiltig epostadress.","Invalid amount.":"Ogiltig summa.","Less than min.":"Mindre \u00e4n min.","More than max.":"St\u00f6rre \u00e4n max.","The fields does not match.":"F\u00e4lten matchar inte.","Invalid password.":"Ogiltigt l\u00f6senord","Your password cannot match your email address.":"Ditt l\u00f6senord kan inte vara detsamma som din mejladress.","Invalid date.":"Ogiltigt datum.","You must be at least !age years old.":"Du m\u00e5ste vara minst !age \u00e5r gammal.","Field contains invalid characters":"F\u00e4ltet inneh\u00e5ller ogiltiga tecken","Invalid SSN.":"Ogiltigt personnummer","Invalid social security number. Please review your social security number and try again.":"Ogiltigt personnummer. V\u00e4nligen se \u00f6ver ditt personnummer och f\u00f6rs\u00f6k igen.","Invalid CPR number.":"Ogiltigt CPR-nummer.","CPR number is already registered.":"CPR numret \u00e4r redan registrerat.","Invalid CPF number.":"Ogiltigt CPF nummer","Invalid bonus code.":"Ogiltig bonuskod.","Invalid card number.":"Ogiltigt kortnummer","Invalid card expire date.":"Ogiltigt utg\u00e5ngsdatum.","Invalid CVV code.":"Ogiltig CVV kod","Invalid NETELLER Account ID or email address.":"Ogiltig NETELLER konto-ID eller epostadress.","Invalid NETELLER Secure ID or authentication code.":"Ogiltigt NETELLER S\u00e4kerhets-ID eller autentiseringskod. ","Only numbers are allowed.":"Endast siffror \u00e4r till\u00e5tna.","Invalid i-BANQ user ID.":"Ogiltigt i-BANQ anv\u00e4ndarid.","Invalid Venus Point account.":"Ogiltigt Venus Point-konto.","Our processing time: !time":"V\u00e5r hanteringstid: !time","Trans. time: !time":"Trans. tid: !time","Time: !time":"Tid: !time","Fee: !amount":"Avgift: !amount","No fee above !amount":"Ingen avgift \u00f6ver !amount","Loading...":"Laddar...","Full Name":"Fullst\u00e4ndigt namn"}
+//--><!]]>
+</script>
+
+
+</head>
+<body class="regulator-SGA  vjBlue verajohn language-sv   page--home">
+
+
+
+
+  
+    
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app0.us.archive.org";}; </script>
+
+<!-- Start of Record Banner output -->
+<wb_div id="__wb_record_overlay_div" class="__wb_overlay">
+</wb_div>
+
+<wb_div class="__wb_record_content" id="__wb_record_content_loader">
+<wb_h1 id="_wb_load_msg">Saving page now...</wb_h1>
+<wb_p id="_wb_curr_url">https://www.verajohn.se/</wb_p>
+<wb_p>As it appears live February 13, 2020 11:17:21 PM UTC</wb_p>
+
+
+
+<wb_div id="__wb_spinningSquaresG">
+<wb_div id="__wb_spinningSquaresG_1" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_2" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_3" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_4" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_5" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_6" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_7" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_8" class="__wb_spinningSquaresG">
+</wb_div>
+</wb_div>
+
+<img id="_wb_logo" src="/static/images/logo_WM.png"/>
+</wb_div>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript">
+  function doRedir()
+  {   
+    var redirUrl = "/web/20200213231721/https://www.verajohn.se/";
+    var textElem = document.getElementById("_wb_load_msg");
+    if (textElem) {
+      textElem.innerHTML = "Loading Saved Page...";
+    }
+    window.location.replace(redirUrl);  
+  }
+  
+  function redirToCapture()
+  {
+    window.setTimeout(doRedir, 1000);
+  }
+
+  
+  if ( window != window.top ) {
+    
+    var wmOverlay = document.getElementById("__wb_record_overlay");
+    
+    if (wmOverlay) {
+      wmOverlay.style.display = "none";
+    }
+    
+  } else {
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', redirToCapture, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', redirToCapture);
+    }
+    
+    // Just in case, redir after 90 secs
+    window.setTimeout(doRedir, 90000);
+  }
+</script>
+
+<!-- End of Record Banner Output output -->
+
+  
+
+
+
+
+  <div id="app">
+    
+
+<script type="text/javascript" src="/save/_embed/https://cdn.plaingaming.net/files/js/js_39490ae70b7287bf80f6f5ee690f68a3.js?q5my18&amp;RnaK&amp;TEWI"></script>
+
+
+
+
+<!--Webfront (main)-->
+
+
+<script>window.dataLayer = window.dataLayer || [];
+(function(w,d,s,l,i){
+w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),
+dl=l!='dataLayer'?'&l='+l:'';
+j.async=true;
+j.src='/save/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer', "GTM-5FMBLM3");
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wl","theme_token":"XbcjRrRCKrBhu2tBBTOQBCjJtGG40OjBCM24EShOvkQ","js":{"1":1,"2":1}},"webfront_channel":"WWW","webfront_locale":"sv_SE","webfront_country":"US","webfront_chat_url":"/save/https://verajohn-se.custhelp.com\/app\/chat\/chat_launch\/","webfront_oracle_custhelp_url":"/save/https://verajohn-se.custhelp.com\/app\/contact_us\/view\/desktop","webfront_site_languages":["en","sv"],"webfront_chat_widget":[],"webfront_currency_template":"0&nbsp;kr","webfront_base_currency_denomination":0.1,"webfront_user_status":0,"webfront_user_access_status":"PREREG","webfront_user_locked":0,"webfront_user_pass_is_temporary":0,"webfront_user_pass_change_required":0,"webfront_user_intercept_active":false,"loyalty_program_enabled":0,"webfront_signup_skip_deposit":{"status":"1","countries":["SE"],"redirect":[""]},"webfront_linktracker_known":[],"webfront_affiliate_info":{"systemid":"","systemkey":"","affiliateid":"","campaignid":0,"bannerid":0},"webfront_session_time_remaining":-1,"webfront_page_location":"FRONT","urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+
+<!--Form-->
+<script>webfront.intlTelInputOptions = {"onlyCountries":["SE"],"preferredCountries":["US"],"utilsScript":"\/sites\/all\/modules\/webfront\/js\/intltelinput\/utils.js","autoPlaceholder":"aggressive"};</script>
+
+<!--Affiliates-->
+
+
+<!--Layers-->
+
+    
+<div class="headband">
+	<div class="navbarMain">
+		<div class="grid-content">
+			<div class="grid-rowOverflow">
+				<a href="/save/https://www.verajohn.se/">
+					
+						<div class="logoVerajohn"></div>
+					
+				</a>
+				<a href="/save/https://www.verajohn.se/" class="navbarMainLink is-first">
+					<div class="navbarMainLink-icon">
+						<i class="icon icon--vjCasino"></i>
+					</div>
+					<div class="navbarMainLink-title">
+						VJ's Casino
+					</div>
+				</a>
+				
+				
+				
+					
+						
+							
+								<a href="/save/https://www.verajohn.se/promotions/category/1" class="navbarMainLink">
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+					
+				
+					<div class="navbarMainLink-icon">
+						
+							<i class="icon icon--navMainPromotions"></i>
+						
+					</div>
+					<div class="navbarMainLink-title">
+						Nyheter
+					</div>
+				</a>
+				
+				
+					<div class="navbarMain-gutterHolder bankid-header ">
+						<div class="navbarMain-gutter">
+							<a class="button form-submit js-openBankidLogin"><span>Logga in</span></a>
+							<a class="button button--highlight js-join" href="#">Öppna konto</a>
+						</div>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="navbarSecondary">
+		<div class="grid-content">
+			<div class="grid-row">
+				<div class="grid-col12">
+					<div class="navbar-menus">
+						
+						
+							
+								<a href="/save/https://www.verajohn.se/" data-set-type="LOBBY_ALLGAMES" class="js-gameFilterSetType navbarSecondaryLink is-first is-active">Lobby</a>
+							
+							
+							
+							<div class="navbarSecondaryLink submenu">
+								<a href="/save/https://www.verajohn.se/slots" data-set-type="LOBBY_VIDEOSLOTS" class="js-gameFilterSetType submenu-link ">Casino</a>
+								<div class="submenu-items">
+	
+	<a href="/save/https://www.verajohn.se/slots" data-set-type="LOBBY_VIDEOSLOTS" class="js-gameFilterSetType "> Slots </a>
+	
+	<a href="/save/https://www.verajohn.se/new-games" data-set-type="LOBBY_NEW_GAMES" class="js-gameFilterSetType "> Nya spel </a>
+
+	
+
+	
+
+	
+	
+	
+
+	
+
+</div>
+
+							</div>
+							
+
+							
+							
+								<a href="/save/https://www.verajohn.se/livecasino" data-set-type="LOBBY_LIVECASINO" class="navbarSecondaryLink ">Live Casino</a>
+							
+							
+
+							
+
+							
+
+							
+							<a href="/save/https://www.verajohn.se/slingo" data-set-type="LOBBY_SLINGO" class="js-gameFilterSetType navbarSecondaryLink">Slingo</a>
+							
+
+							
+
+							<a href="/save/https://www.verajohn.se/tournaments" data-set-type="LOBBY_TOURNAMENTS" class="navbarSecondaryLink ">Turneringar</a>
+
+							
+
+							
+
+							
+
+						
+						
+					</div>
+						<div class="languageSelect">
+							
+								<a href="/save/https://www.verajohn.se/password" class="link link--alone">Glömt lösenord?</a>
+							
+							<div class="selectblock selectblock--outside selectblock--alternative selectblock--inline">
+    <div class="selectblock-title">
+        <i class="flag flag--se"></i><span class="flagText">Svenska</span>
+    </div>
+    <div class="selectblock-contentHolder">
+        <div class="selectblock-content">
+       		
+		  		<a href="/save/https://www.verajohn.se/set-language?lang=en" class="selectblockItem " >
+					<i class="flag flag--gb"></i><span class="flagText">English</span>
+				</a>
+		  
+		  		<a href="/save/https://www.verajohn.se/set-language?lang=sv" class="selectblockItem is-active " >
+					<i class="flag flag--se"></i><span class="flagText">Svenska</span>
+				</a>
+		  
+        </div>
+    </div>
+</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="page">
+        
+			    <div class="page-promoHolder" style="background-image: url('/save/_embed/https://cdn.plaingaming.net/files/upload/promobg/fe0ad2e74ff1e95ecbf5d73b72c90256.jpg');">
+        
+        <div>
+				
+        
+
+
+	<div class="grid-content js-promotion-banner">
+	<div class="grid-row">
+		<div class="grid-col12 js-squish">
+			<div class="gallery gallery--promotions js-gallery" data-gallery-options='{"delay":8000}'>
+				<div class="gallery-slides">
+					
+
+
+<div style="background-image: url(/save/_embed/https://cdn.plaingaming.net/files/upload/promotion/promo_file5d80eee3613514888.png); "
+     data-promo-id="4888"id="cta-link-4888"data-tracking-label="4888, CRM-553 VJ SE Sep 19 Welcome Offer"data-link-type="#join"data-link-value=" /signup"
+     class="gallerySlide gallerySlide--clickable gallerySlide--pos7 gallerySlide--alignleft is-center">
+    
+  <div class="promotionBannerModifiers">
+    
+          
+  </div>
+
+    <div class="gallerySlide-positioner">
+       
+      <div class="gallerySlide-layer1">
+              <h2 class="heading heading--alternative heading--striking heading--strikingLarge" style="color: #ffffff; text-align: left;">200% bonus upp till 2 000 kr till alla nya medlemmar!</h2>
+          </div>
+         
+       
+         <div class="gallerySlide-layer2">
+           <div class="gallerySlide-buttonHolder">
+             <a href="#" data-promo-id="4888"id="cta-link-4888"data-tracking-label="4888, CRM-553 VJ SE Sep 19 Welcome Offer"data-link-type="#join"data-link-value=" /signup" class="button cta-link button--highlight">
+               Öppna konto
+             </a>
+           </div>
+         </div>
+         
+    
+  </div>
+
+
+        <div class="galleryTncLink">
+          <a href="/save/https://www.verajohn.se/about/ourwelcomebonus" id="cta-tnc-link-4888"
+            data-promo-tnc-id="4888"
+            data-tracking-label="Regler och villkor gäller"                             
+            data-link-type="tnc" 
+            data-link-value="/about/ourwelcomebonus" 
+            class="link link--alone cta-tnc-link" style="color: #ffffff;">Regler och villkor gäller</a>
+        </div>
+    
+</div>
+					
+				</div>
+				<div class="gallery-controls">
+					<div class="gallery-navigationNext js-next"></div>
+					<div class="gallery-navigationPrevious js-previous"></div>
+					<div class="gallery-pager js-pagers"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	
+	
+
+    
+
+    <div class="grid-content js-headbandTo">
+    <div class="plate plate--mainContent">
+        <div class="grid-content">
+            <div class="grid-row">
+                <div class="grid-col12">
+					<div class="gameFilter gameFilter--casino" data-filter-type="VJCASINO">
+	
+	<div class="gameFilter-filters">
+		<div class="grid-row">
+			<div class="grid-col10">
+				<div class="gameFilter-opener">
+					<div class="gameFilter-openerIcon">
+						<button class="button">
+							<i class="icon icon--gameFilterOpener icon--skewered"></i>
+							<span>Hitta spel</span>
+						</button>
+					</div>
+					<span class="gameFilterMessage">
+						<div class="gameFilterMessageText">
+							NU VISAS
+						</div>
+						<div class="gameFilterMessageText">
+						
+							<span class="gameFilter-total js-filterFilterName">Kampanjspel</span> från <span class="gameFilter-total js-filterProviderName">Alla spelleverantörer</span> sorterat efter <span class="gameFilter-total js-filterOrderName">Vår rekommendation</span>
+						
+						</div>
+					</span>
+					<div class="gameFilter-openerAction is-disabled">
+						<i class="icon icon--reload"></i>
+						<span>
+							Nollställ filter
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="grid-col2">
+				<div class="gameFilter-name">
+					<input type="text" maxlength="50" placeholder="Sök spel" class="formItemTextLike js-gameFilter-name">
+				</div>
+			</div>
+		</div>
+		<div class="grid-row">
+			<div class="grid-col12">
+				<div class="gameFilter-selectorHolder">
+					<div class="gameFilterSelector u-clearfix is-short">
+						<a href="#" class="lightboxClose js-close"></a>
+						<div class="gameFilterSelectorSection">
+							<div class="gameFilterSelectorSection-header">
+								Välj en kategori för att hitta fler spel du kommer älska!
+							</div>
+							<div class="gameFilterSelectorSection-filters">
+								
+									<a href="#" class=" gameFilterSelectorFilter is-active" data-filterid="FRONT_COLLAGE" data-filtercode="FRONT_COLLAGE" title="">
+										Kampanjspel
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="494" data-filtercode="LOBBY_CLASSIC_SLOTS" title="">
+										Klassiska slots
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="660" data-filtercode="LOBBY_NEW_GAMES" title="">
+										Nya spel
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="524" data-filtercode="LOBBY_SLINGO" title="">
+										Slingo
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="623" data-filtercode="LOBBY_FORGOTTEN_FAVS" title="">
+										Glömda Favoriter
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="481" data-filtercode="LOBBY_ALLGAMES" title="">
+										Alla spel
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="493" data-filtercode="LOBBY_VIDEOSLOTS" title="">
+										Slots
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="482" data-filtercode="LOBBY_VJ_FAVOURITES" title="">
+										VJ favoriter
+									</a>
+								
+									<a href="#" class=" gameFilterSelectorFilter" data-filterid="621" data-filtercode="LOBBY_FORGOTTEN_FAVS" title="">
+										Glömda Favoriter
+									</a>
+								
+							</div>
+						</div>
+						<div class="gameFilterSelectorSection">
+								<hr class="gameFilterSelectorSection-separator">
+								<div class="gameFilterSelectorSection-header">
+									Spelleverantör
+								</div>
+								<div class="gameFilterSelectorSection-providers">
+									
+										<a href="#" class=" gameFilterSelectorFilter is-active" data-provider="ALL">
+											Alla
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="2BY2">
+											2by2 Gaming
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="BLUEPRINT">
+											Blueprint Gaming
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="EYECON">
+											Eyecon
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="LEANDER">
+											Leander Games
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="NOLIMITCITY">
+											Nolimit City
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="PRAGMATICPLAY">
+											PragmaticPlay
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="SLINGO">
+											Slingo
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="SUNFOX">
+											Sunfox
+										</a>
+									
+										<a href="#" class=" gameFilterSelectorFilter" data-provider="THUNDERKICK">
+											Thunderkick
+										</a>
+									
+								</div>
+							</div>
+						<div class="gameFilterSelectorSection js-target is-hidden">
+							<hr class="gameFilterSelectorSection-separator">
+							<div class="gameFilterSelectorSection-header">
+								Sortera efter
+							</div>
+							<div class="gameFilterSelectorSection-order">
+								
+									<a href="#" class="gameFilterSelectorFilter is-active" data-order="RECOMMENDED">
+										Vår rekommendation
+									</a>
+								
+									<a href="#" class="gameFilterSelectorFilter" data-order="NAME">
+										A-Z
+									</a>
+								
+									<a href="#" class="gameFilterSelectorFilter" data-order="NAME_REVERSE">
+										Z-A
+									</a>
+								
+									<a href="#" class="gameFilterSelectorFilter" data-order="RELEASE">
+										Lanseringsdatum
+									</a>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="gameFilter-display">
+		
+	<div class="gameFilter-games u-clearfix">
+        
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/1429-uncharted-seas" data-game-alias="1429-uncharted-seas"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/8e4fb1b6fe92b66dca1b8af0d8b55a0d.png"/>
+	<div class="gameIcon-name tk-uncharted">1429 Uncharted Seas</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/triple-tigers" data-game-alias="triple-tigers"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/c212c3849c533b6ceb9f8fbbc30091a6.png"/>
+	<div class="gameIcon-name vs1tigers">Triple Tigers</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/tractor-beam" data-game-alias="tractor-beam"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d1b0056320400.png"/>
+	<div class="gameIcon-name NLC_TRACTOR_BEAM">Tractor Beam</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/the-creepy-carnival" data-game-alias="the-creepy-carnival"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d2c664b39b720.png"/>
+	<div class="gameIcon-name NLC_THE_CREEPY_CARNIVAL">The Creepy Carnival</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/carnival-queen" data-game-alias="carnival-queen"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5c57f8278e5db0.png"/>
+	<div class="gameIcon-name tk-s1-g21">Carnival Queen</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/esqueleto-explosivo" data-game-alias="esqueleto-explosivo"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/cae2c373247a2d38af3b24a7f5c2c796.png"/>
+	<div class="gameIcon-name tk-esqueleto-a">Esqueleto Explosivo</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/beat-the-beast-krakens-lair" data-game-alias="beat-the-beast-krakens-lair"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e42603a2dba20.png"/>
+	<div class="gameIcon-name tk-s1-g30">Beat the Beast: Kraken's Lair</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/slingo-centurion" data-game-alias="slingo-centurion"
+		
+	
+	data-game-provider="SLINGO"
+	data-game-type="SLINGO"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e426ae1d08330.png"/>
+	<div class="gameIcon-name slingo-centurion">Slingo Centurion</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/punk-rocker-xways" data-game-alias="punk-rocker-xways"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e43c2f98f4035290.png"/>
+	<div class="gameIcon-name NLC_PUNK_ROCKER_XWAYS">Punk Rocker xWays</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/super-7s" data-game-alias="super-7s"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e37e9f303f8f0.png"/>
+	<div class="gameIcon-name vs5super7">Super 7s</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/balls-of-fury" data-game-alias="balls-of-fury"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e37de62d116d0.png"/>
+	<div class="gameIcon-name BALLSOFFURY3C0">Balls of Fury</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 gameIcon--tagNew js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/aztec-moon-deluxe" data-game-alias="aztec-moon-deluxe"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e3be358a3d7c5244.png"/>
+	<div class="gameIcon-name AZTECMOON3C4">Aztec Moon Deluxe</div>
+	
+	
+		
+	
+	
+	
+		<div class="gameIcon-tagIcon">
+			<i class="icon icon--gameIconTagNew" 
+				title="New"></i>
+		</div>
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/release-the-kraken" data-game-alias="release-the-kraken"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e2ed0bfb15960.png"/>
+	<div class="gameIcon-name vs20kraken">Release the Kraken</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/gem-zone" data-game-alias="gem-zone"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e2ecc59263130.png"/>
+	<div class="gameIcon-name THEGEMZONE6M8">Gem Zone</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/lucky-cat" data-game-alias="lucky-cat"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e2ecc03bc8810.png"/>
+	<div class="gameIcon-name LUCKYCAT8E4">Lucky Cat</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/beez-kneez" data-game-alias="beez-kneez"
+		
+	
+	data-game-provider="EYECON"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e2ed2b7a78595214.png"/>
+	<div class="gameIcon-name 125777">Beez Kneez</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/money-mouse" data-game-alias="money-mouse"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e280d3f68a2e5200.png"/>
+	<div class="gameIcon-name vs25mmouse">Money Mouse</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/esqueleto-explosivo-2" data-game-alias="esqueleto-explosivo-2"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e16d20bcbcfc5186.png"/>
+	<div class="gameIcon-name tk-s1-g27">Esqueleto Explosivo 2</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/buffalo-king" data-game-alias="buffalo-king"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e12f6b5b889e5166.png"/>
+	<div class="gameIcon-name vs4096bufking">Buffalo King</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/magic-journey" data-game-alias="magic-journey"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e0f317ad63cf0.png"/>
+	<div class="gameIcon-name vs8magicjourn">Magic Journey</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/poison-eve" data-game-alias="poison-eve"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5e12f621ac8795150.png"/>
+	<div class="gameIcon-name NLC_POISON_EVE">Poison Eve</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/tutans-treasure" data-game-alias="tutans-treasure"
+		
+	
+	data-game-provider="SLINGO"
+	data-game-type="OTHERGAMES"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dee1b0bbd7f40.png"/>
+	<div class="gameIcon-name tutans-treasure">Tutan's Treasure</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/greek-gods" data-game-alias="greek-gods"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dee1a15ce93b0.png"/>
+	<div class="gameIcon-name vs243fortseren">Greek Gods</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/sword-of-khans" data-game-alias="sword-of-khans"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5ddbc190b800d0.png"/>
+	<div class="gameIcon-name tk-s1-g28">Sword of Khans</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/sweet-bonanza-xmas" data-game-alias="sweet-bonanza-xmas"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5ddbbaeb015bb0.png"/>
+	<div class="gameIcon-name vs20sbxmas">Sweet Bonanza Xmas</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/dragon-tribe" data-game-alias="dragon-tribe"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5ddbb0b69a8d10.png"/>
+	<div class="gameIcon-name NLC_DRAGON_TRIBE">Dragon Tribe</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/wild-rover" data-game-alias="wild-rover"
+		
+	
+	data-game-provider="SLINGO"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dd2756d8e26b0.png"/>
+	<div class="gameIcon-name wild-rover">Wild Rover</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/hercules-and-pegasus" data-game-alias="hercules-and-pegasus"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dd274bc2fe820.png"/>
+	<div class="gameIcon-name vs20hercpeg">Hercules and Pegasus</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/aladdin-and-the-sorcerer" data-game-alias="aladdin-and-the-sorcerer"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dc91fd06998d0.png"/>
+	<div class="gameIcon-name vs20aladdinsorc">Aladdin and the Sorcerer</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/tomb-of-nefertiti" data-game-alias="tomb-of-nefertiti"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dbffe7131d464947.png"/>
+	<div class="gameIcon-name NLC_TOMB_OF_NEFERTITI">Tomb of Nefertiti</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/honey-honey-honey" data-game-alias="honey-honey-honey"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5db98ac3d1b854919.png"/>
+	<div class="gameIcon-name vs20honey">Honey Honey Honey</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/the-wild-mob" data-game-alias="the-wild-mob"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5db6ad829c22c0.png"/>
+	<div class="gameIcon-name THEWILDMOB9K1">The wild Mob</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/leander-congo-bongo" data-game-alias="leander-congo-bongo"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5db6ad1d5cea50.png"/>
+	<div class="gameIcon-name CONGOBONGO8W9">Congo Bongo</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/firestrike" data-game-alias="firestrike"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dad789fdb49a4887.png"/>
+	<div class="gameIcon-name vs10firestrike">Firestrike</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/patricks-jackpot" data-game-alias="patricks-jackpot"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dad7d533d9234873.png"/>
+	<div class="gameIcon-name PATRICKSJACKPOT9A5">Patrick's Jackpot</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/the-snake" data-game-alias="the-snake"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5dad7e1fe82dd4871.png"/>
+	<div class="gameIcon-name SNAKE2U8">The Snake</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/trick-or-treat" data-game-alias="trick-or-treat"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5da436cb445be0.png"/>
+	<div class="gameIcon-name TRICKORTREAT9X6">Trick or Treat</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/afterlife-inferno" data-game-alias="afterlife-inferno"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5afd678c344350.png"/>
+	<div class="gameIcon-name INFERNODLX9G7">Afterlife Inferno</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/alexandria-city-of-fortune" data-game-alias="alexandria-city-of-fortune"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d9d7f0bbaa5a4837.png"/>
+	<div class="gameIcon-name ALEXANDRIA8R3">Alexandria City of Fortune</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/manhattan-goes-wild" data-game-alias="manhattan-goes-wild"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d9449720e2494809.png"/>
+	<div class="gameIcon-name NLC_MANHATTAN_GOES_WILD">Manhattan Goes Wild</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/tree-of-riches" data-game-alias="tree-of-riches"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d91bbfc4b68b0.png"/>
+	<div class="gameIcon-name vs1fortunetree">Tree of Riches</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/divine-lotus" data-game-alias="divine-lotus"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d89bedeaa9134799.png"/>
+	<div class="gameIcon-name tk-s1-g26">Divine Lotus</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/john-hunter-and-the-scarab-queen" data-game-alias="john-hunter-and-the-scarab-queen"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d88c8d773fcc4775.png"/>
+	<div class="gameIcon-name vs25scarabqueen">John Hunter and the Scarab Queen</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/super-joker" data-game-alias="super-joker"
+		
+	
+	data-game-provider="PRAGMATICPLAY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d7f3b93e13830.png"/>
+	<div class="gameIcon-name vs5spjoker">Super Joker</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/slingo-cascade" data-game-alias="slingo-cascade"
+		
+	
+	data-game-provider="SLINGO"
+	data-game-type="SLINGO"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d75fd017028b0.png"/>
+	<div class="gameIcon-name slingo-cascade">Slingo Cascade</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/pixies-vs-pirates" data-game-alias="pixies-vs-pirates"
+		
+	
+	data-game-provider="NOLIMITCITY"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d6ccbe0b7c750.png"/>
+	<div class="gameIcon-name NLC_PIXIES_VS_PIRATES">Pixies vs Pirates</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/kraken-conquest" data-game-alias="kraken-conquest"
+		
+	
+	data-game-provider="LEANDER"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d6ccb659605c0.png"/>
+	<div class="gameIcon-name KRAKEN8T0">Kraken Conquest</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+			  
+	
+	<a class="gameIcon gameIcon--filter
+	 js-gameLauncher"
+	
+		
+			href="/save/https://www.verajohn.se/game/riders-of-the-storm" data-game-alias="riders-of-the-storm"
+		
+	
+	data-game-provider="THUNDERKICK"
+	data-game-type="VIDEOSLOTS"
+	>
+	<img class="gameIcon-icon" 
+		src="/save/_embed/https://cdn.plaingaming.net/files/upload/game/gameimage_vjicon5d64cb15b933a0.png"/>
+	<div class="gameIcon-name tk-s1-g25">Riders of the Storm</div>
+	
+	
+		
+	
+	
+	
+	</a> 
+	
+
+		
+    </div>
+	
+		<div class="gameFilter-showMore">
+            <div class="gameFilter-showMoreTitle">Visar 48 av 222 spel</div>
+            <div class="gameFilter-showMoreLink js-gameFilter-showMore">
+                <a href="#" class="link link--alternative">Visa fler</a>
+            </div>
+        </div>
+			
+
+	</div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>  
+</div> 
+
+    
+
+    <div class="plate plate--pageSection">
+	<div class="grid-content">
+		<div class="grid-row">
+			
+				
+				
+				<div class="grid-col4">
+					<a href=/save/https://www.verajohn.se/game/random class="link js-gameLauncher" data-game-alias="random" data-games-count="1337">
+    <div class="plate plate--randomgame u-txtc">
+        <div class="plate-heading">
+            <h2 class="heading heading--secondary heading--plate">
+                Jag känner mig äventyrlig
+            </h2>
+        </div>
+        <div class="plate-coaster">
+            <div class="plate-coasterRandomGame"></div>
+        </div>
+        <div class="plate-endHolder">
+            <span class="button button--primary button--alone">Slumpa fram ett spel</span>
+        </div>
+    </div>
+</a>
+
+				</div>
+			
+		</div>
+	</div>
+</div>
+
+
+      
+        <div id="signup-form-footer-loader" class='ajaxify loader' data-url="https://www.verajohn.se/data/block?obj=Signup bottom" data-group="initial" data-cache="false"></div>
+    
+
+
+		</div>
+		</div>
+    </div>
+    <!-- /page -->
+
+	
+
+  
+<div class="bottomMenu ">
+	<div class="bottomMenuBubble bottomMenuBubble--help bottomMenuBubble--helpAsNotification">
+		<div class="bottomMenuBubble-close"></div>
+		<div class="bottomMenuBubble-heading">Hjälp</div>
+		<div class="bottomMenuBubble-holder">
+			<div class="personalContact">
+	<h3 class="heading heading--tertiary">Kontakta oss</h3>
+	
+		 <div class="contactInfo">
+  <div class="contactInfo-icon">
+	<i class="icon icon--supportPhone"></i>
+  </div>
+  <div class="contactInfo-value">	
+		  
+		+46812451423
+	  
+  </div>
+</div>
+	
+	
+	
+	
+	
+	  <div class="contactInfo">
+  <div class="contactInfo-icon">
+	<i class="icon icon--supportMail"></i>
+  </div>
+  <div class="contactInfo-value">	
+	
+	  <a href="mailto:support@verajohn.se" class="link link--alone">support@verajohn.se</a>
+	  
+  </div>
+</div>
+	
+	<div class="contactInfo contactInfo--last">
+    	<img class="contactInfo-image" src="/save/_embed/https://cdn.plaingaming.net/files/repository/105/1/263/all/all/image/contact-us_1565252784.png?q5my18&amp;RnaK&amp;A3g0" />
+    </div>	  
+</div>
+		</div>
+		<div class="bottomMenuBubble-foot">
+			
+			<a href="#" class="button button--alone js-liveChat">Live chatt</a>
+			
+			<hr class="divider divider--none divider--space"/>
+			<a href="/save/https://www.verajohn.se/help-centre" data-ajax-url="/ajax/load/create-layer/help-centre/faq" data-layer-id="help-centre" data-click-on="[data-opens='faq']" class="button button--alone button--secondary js-openLayer">Vanliga frågor</a>
+			<hr class="divider divider--none divider--space"/>
+			<a href="/save/https://www.verajohn.se/#help-centre/contact" data-ajax-url="/ajax/load/create-layer/help-centre/contact" data-layer-id="help-centre" data-click-on="[data-opens='contact']" class="button button--alone button--secondary js-openLayer footer-helpCentre">Kontakta oss</a>
+			
+		</div>
+	</div>
+	
+	<div class="bottomMenu-items">
+		<div class="bottomMenu-clock">
+			<div class="js-clock">00:00</div>
+		</div>
+		<div class="bottomMenu-item" data-show="help" data-portal-enabled="1" data-portal-url="https://verajohn-se.custhelp.com/app/contact_us/view/desktop" data-portal-width="700" data-portal-height="650">
+			<i class="icon icon--bottomHelp"></i> Hjälp
+		</div>
+	  	
+	</div>
+</div>
+
+<div class="cookie-disclaimer hidden">
+	<div class="cookie-disclaimer-content">
+	  <p> 
+	  	Vi använder kakor för att skräddarsy din upplevelse på vår webbsida och förbättra servicen vi erbjuder dig. Du kan få information om vilka typer av kakor vi använder och hur du kan ändra dina preferenser gällande dem i vår policy för kakor <a  href="/save/https://www.verajohn.se/about/cookie-policy">policy för kakor</a>. 
+	  </p>
+		  <span class="button cookie-disclaimer-close">Okej</span>
+	</div>
+</div>
+
+
+  
+	<div class="seo-content">
+	
+		<div class="grid-content">
+			<div class="grid-row">
+				
+						<div class="grid-col12">
+							
+								<div class="formatted seo-content-formatting seo-title">
+									<h1>Vera&John - Ett <i>roligare</i> casino online.</h1>
+								</div>
+								<div class="formatted seo-content-formatting seo-text">
+									<p>Vera&John erbjuder massor av slotspel och bordsspel i en säker och användarvänlig miljö.  På Vera&John casino kan du spela allt från onlinespel som <a  href="/save/https://www.verajohn.se/game/toki-time">Toki Time</a></a> och bordsspel som  <a  href="/save/https://www.verajohn.se/game/roulette">roulette</a>, till <a  href="/save/https://www.verajohn.se/slots">slots</a>, <a  href="/save/https://www.verajohn.se/videoslots">videoslots</a> och andra casinospel.    Vi tycker att Vera&John är ett fantastiskt onlinecasino och det bästa som hänt sedan järnvägen uppfanns – vi hoppas att du kommer att känna likadant! </p>
+
+<p>Om du letar efter ett onlinecasino som är roligt, säkert och välkomnande har du kommit helt rätt! Med Vera&John får du ett användarvänligt casino som slår det mesta. Oavsett om du gillar klassiska favoriter som blackjack och roulette, eller slotspel med stora jackpots, så kommer du att känna dig hemma här. Som grädde på moset har vi marknadsledande live casino-spel, skraplotter och massor med andra roliga spel.</p>
+
+<h2>Ta del av bonusar!</h2>
+<p>Vi på Vera&John vill att du ska få ta del av vår fantastiska insättningsbonus. Från stunden du blir medlem hos oss kommer du att välkomnas med en fantastisk bonus på din första insättning som du kommer att älska. Om du gillar casinobonusar är Vera&John det perfekta casinot för dig.</p>
+
+<h2>Ett innovativt och säkert onlinecasino</h2> 
+<p>Vi är övertygande om att Vera&John är det bästa som hänt sedan skivat bröd, och vi är inte ensamma! Våra spelare älskar våra innovativa spel, allt i en säker och välkomnande miljö. Vår ambition är att skapa det roligaste och mest inspirerande onlinecasinot i världen, och vi har alla verktyg att göra just det. Vi drivs av en grupp casinoälskande människor som jobbat länge i branschen, vilket innebär att vi vet hur vi kan ge dig de bästa casinospelen och den mest innovativa programvaran, allt paketerat i ett säkert casino som du kan besöka via datorn eller i mobilen.</p>
+
+<h2>De bästa slotspelen på Vera&John</h2>
+<p>Vi älskar verkligen slotspel på Vera&John, vilket är anledningen till att vi har hundratals att välja mellan. Testa några av favoriterna med enorma jackpots som Mega Moolah och Mega Fortune. Vill du ha något mer klassiskt? Vi har det också! Testa Fruit Fiesta, Supernudge 6000, Ace of Spades och Mega Joker (för att nämna några). Oavsett vilka slots du gillar kan vi lova att du hittar dem här. Vi erbjuder nästan 600 onlineslots och antalet växer hela tiden.</p>
+
+<h2>Live Casino-spel online</h2>
+<p>Om du är mer av en bordsspelsfantast så kommer du nog att bli ganska imponerade av vårt enorma utbud av blackjack, roulette, baccarat, video-poker och även mer udda spel! Medan våra bordsspel är bland de bästa i branschen, så är vårt live-casino inte något du vill missa det heller. Spela med live dealers som står redo vid roulettebordet, delar ut kort och tar med dig på en tripp till Las Vegas utan att du behöver lämna soffan.</p>
+
+<h2>Snabbt och säkert casino i mobilen</h2> 
+<p>Vill du kunna spela var du än befinner dig? Vera&John har ett snabbt och säkert mobilcasino som du kan spela på i din telefon! Oavsett om du vill snurra på spelhjulen medan du sitter på bussen eller spela blackjack på tåget så har du alltid tillgång till Vera&Johns mobilcasino. Många av våra spel är anpassade till mobilen och det kommer nya hela tiden.</p>
+
+<h2>Support när du behöver det</h2> 
+<p>Närhelst du har en fråga eller fundering är det bara att du kontaktar våra vänliga medarbetare på support. Och vi har gjort det superenkelt för dig att komma i kontakt med oss. Du kan ringa, mejla eller använda vår live-chatt för att prata med någon från support. Vi är stolta över våra korta svarstider, och du hittar våra öppettider under ”Kontakta oss”.</p>
+
+<h2>Svenskt onlinecasino</h2> 
+<p>Vera&John är ett nätcasino som regleras av Spelinspektionen. Tack vare vår svenska casinolicens kan du spela tryggt och säkert på våra casinospel.</p>
+
+<h2>Bli medlem hos Vera&John idag!</h2>
+<p>Så vad väntar du på? Stora jackpots, hundratals slots, populära bordsspel, ett otroligt live-casino, ett snabbt och säkert casino i mobilen, fantastisk support...vi har allt, nu saknar vi bara dig. Bli medlem idag och ta del av bonusen på din första insättning på Vera&John online casino.</p>
+								</div>
+							
+							
+								<div class="formatted seo-content-formatting seo-language">
+									<p>Du befinner dig på: <u>Vera&John online casino Sverige</u> | <a href="/save/https://www.verajohn.se/set-language?lang=en">International English</a></p>
+								</div>
+							
+						</div>
+					
+				</div>
+			</div>
+		</div>
+	
+</div>
+
+
+<div class="footer">
+    <div class="grid-content">
+        <div class="grid-row">
+            <div class="grid-col12">
+                <div class="grid-content">
+                    <div class="grid-row">
+                        <div class="footer-grid">
+                            <a href="/save/https://www.verajohn.se/">
+								
+									<i class="icon icon--logoFooterVerajohn"></i>
+								
+                            </a>
+                        </div>
+                        <div class="footer-grid">
+                            <h3 class="heading">
+                                Om oss
+                            </h3>
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/us"  class="link link--alone  " >Vad är Vera&amp;John?</a>
+			</div>
+	
+
+							
+								
+	
+			<div class="footer-link">
+				<a href="/save/http://career.dumarcagaming.com/"  target="_blank"  class="link link--alone  " >Jobba hos oss</a>
+			</div>
+	
+
+
+							
+
+                            
+                            	
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/our-casino-bonuses"  class="link link--alone  " >Våra casinobonusar</a>
+			</div>
+	
+
+							
+                            
+
+                            
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/tournaments"  class="link link--alone  " >Turneringar</a>
+			</div>
+	
+
+              
+                        </div>
+
+                        <div class="footer-grid">
+                            <h3 class="heading">
+                                Allmän information
+                            </h3>
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/mobile-casino"  class="link link--alone  " >Mobilcasino</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/history-of-casino"  class="link link--alone  " >Casinohistoria</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/game-rules"  class="link link--alone  " >Spelregler</a>
+			</div>
+	
+
+						
+                            
+	
+			<div class="footer-link">
+				<a href="/save/http://plainpartners.com/"  target="_blank"  class="link link--alone  " >Affiliates</a>
+			</div>
+	
+
+							
+							
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/payments"  class="link link--alone  " >Våra betalsätt</a>
+			</div>
+	
+
+
+                          	
+
+                        </div>
+
+                        <div class="footer-grid">
+                            <h3 class="heading">
+                                Säkerhet
+                            </h3>
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/terms-and-conditions"  class="link link--alone  " >Användarvillkor</a>
+			</div>
+	
+
+
+						    
+						    
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/promotions-terms-and-conditions"  class="link link--alone  " >Allmänna kampanjvillkor</a>
+			</div>
+	
+
+						    
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.play-wise.com/verajohn-se/"  class="link link--alone  " >Ansvarsfullt spelande</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/myaccount/limits"  class="link link--alone  " >Spelgräns</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/privacy-policy"  class="link link--alone  " >Integritetspolicy</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/security"  class="link link--alone  " >Säkerhet</a>
+			</div>
+	
+
+							
+							
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/about/cookie-policy"  class="link link--alone  " >Policy för kakor</a>
+			</div>
+	
+
+						
+                        </div>
+
+                        <div class="footer-grid">
+                            <h3 class="heading">
+                                Kundtjänst
+                            </h3>
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://verajohn-se.custhelp.com/app/faq" class="link link--alone">Vanliga frågor</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://www.verajohn.se/#"  class="link link--alone js-liveChat " >Live chatt</a>
+			</div>
+	
+
+
+                            
+	
+			<div class="footer-link">
+				<a href="/save/https://verajohn-se.custhelp.com/app/contact_us" class="link link--alone">Kontakta oss</a>
+			</div>
+	
+
+
+						    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-legal ">
+	<div class="footer-providers">
+	  
+		<div class="footer-provider">
+			<h4 class="heading heading--quaternary heading--alternative">
+				Spelleverantörer
+			</h4>
+			  
+				<i class="icon icon--provider provider-game-icon provider-game-plaingaming"></i>
+			 
+				<i class="icon icon--provider provider-game-icon provider-game-thunderkick"></i>
+			 
+				<i class="icon icon--provider provider-game-icon provider-game-leander"></i>
+			 
+		</div>
+	</div>
+	<div class="footer-license">
+		<div class="footer-licenseFrom">
+			
+				<a href="/save/https://www.lotteriinspektionen.se/" rel="nofollow" target="_blank" class="link link--icon">
+					<i class="icon icon--license-sga"></i>
+				</a>
+				
+
+			Godkänd av
+		</div>
+		<div class="footer-licenseLogo">
+			
+
+		</div>
+		<div class="footer-licenseText">
+			<p>Vera&John erbjuder spel med tillstånd från Spelinspektionen och har licens nummer 18Li7410 (giltigt t o m 2024-01-01).
+Vera&John Dumarca Gaming Ltd, Organisationsnummer C50898. Kontakta oss på +46812451423 eller support@verajohn.se.</p>
+		</div>
+		<div class="footer-licenseLock">
+			<i class="icon icon--licenseLock"></i>
+		</div>
+		<div class="footer-awards">
+
+			
+				<a href="/save/https://www.stodlinjen.se/" rel="nofollow" target="_blank" class="link link--icon">
+					<i class="icon icon--license-helporg"></i>
+				</a>
+			
+			<i class="icon icon--license18"></i>
+			
+				<a href="/save/https://www.gamblingtherapy.org/" rel="nofollow" target="_blank" class="link link--icon">
+					<i class="icon icon--licenseGamblingTherapy"></i>
+				</a>
+				<a href="/save/http://www.gamcare.org.uk/" rel="nofollow" target="_blank" class="link link--icon">
+					<i class="icon icon--licenseGamecare"></i>
+				</a>
+			
+		</div>
+	</div>
+	<div class="footer-gambling formatted TEST">
+		
+			<p>
+				
+				<a href="/save/https://www.play-wise.com/verajohn-se/">
+					<span>Spel om pengar kan vara beroendeframkallande – spela ansvarsfullt</span>
+				</a>
+				
+			</p>
+		
+		
+			<div class="center">
+				<a href="/save/https://www.spelpaus.se/">
+					<span class="underline">Gå till spelpaus.se</span>
+				</a>
+			</div>
+		
+
+		
+	</div>
+</div>
+								  			
+    </div>
+</div>
+<script>
+	var footerLinks = document.querySelectorAll(".footer-link .link");
+  	for(var i = 0; i < footerLinks.length;i++){
+		var href = footerLinks[i].getAttribute("href");
+	  	if(href == window.location.pathname){
+	  		footerLinks[i].className += ' is-active';
+	  	}
+	};
+</script>
+
+  </div>
+  
+  <!--doT Templates-->
+<script type="text/template-dot" id="js-dot-fancy-load">
+	<div class="fancyLoad{{= ' ' + it.modifier}}">
+		Laddar<span class="fancyLoad-one">.</span><span class="fancyLoad-two">.</span><span class="fancyLoad-three">.</span>
+	</div>		
+</script>
+<script type="text/template-dot" id="js-dot-game-list-select-games">
+	{{~ it.games :game:index }}
+		{{? $.inArray('MAINTENANCE', game.tags) === -1 && $.inArray('POPUP', game.tags) === -1 }}
+			<li class="listSelectItem" data-value="{{= game.url_alias }}">
+				<div class="media">
+					<div class="media-image">
+						<img src="{{= game.image }}" class="listSelectItem-icon"/>
+					</div>
+					<div class="media-text">
+						<span class="listSelectItem-title">{{= game.name }}</span>
+					</div>
+				</div>
+			</li>
+		{{?}}
+	{{~}}
+</script>
+<script type="text/template-dot" id="js-dot-gamelayer">
+	<div class="gamelayer">
+		<div class="gamelayerSidebar">
+			<div class="gamelayerSidebar-toggler js-gamelayerSidebarToggler"></div>
+			<div class="gamelayerSidebar-content">
+			{{= webfront.tpl.fancyLoad({'modifier': 'fancyLoad--coverall'}) }}
+			</div>
+		</div>
+		<div class="gamelayerSidebarMenu">
+			<div class="gamelayerSidebarMenuClock js-clock">
+				00:00
+			</div>
+		</div>
+		<div class="gamelayerMain">
+			<div class="gamelayerGameHolder js-gameHolder">
+				<div class="gamelayerGameHolder-fullscreen js-gamelayerFullscreen">
+					<i class="icon icon--fullscreenExpand"></i>
+				</div>
+				<iframe class="gamelayerGameHolder-holder lazyFrame" data-src="/game/{{= it.urlAlias }}/frame" name="game" allowfullscreen="true"></iframe>
+				<div class="gamelayerGameHolder-title">
+				</div>
+				<span>
+
+					
+				</span>
+			</div>
+		</div>
+	</div>
+</script>
+<script type="text/template-dot" id="js-dot-layer">
+	<div class="lightbox" id="{{= it.id }}">
+		<div class="lightbox-overlay"></div>
+		<div class="lightbox-container">
+			<h3 class="lightbox-title"></h3>
+			<div class="lightbox-content"></div>
+			<a href="#" class="lightboxClose js-close"></a>
+		</div>
+	</div>
+</script>
+
+
+
+<script type="text/template-dot" id="js-dot-levelmeter">
+	<div class="levelMeter">
+		<div class="levelMeter-level">
+			<div class="levelMeter-levelText"><?= t('Lv') ?></div>
+			<h1 class="heading heading--primary heading--alternative">{{= it.level }}</h1>
+		</div>
+		<div class="levelMeter-bar">
+			<div class="levelMeter-barProgress">
+				<div class="progressbar progressbar--expanded">
+					<div class="progressbar-value">
+						<div class="description">{{= it.progress }}</div>
+					</div>
+					<div class="progressbar-base">
+						<div class="progressbar-baseFill" style="width: {{= it.progress }}"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+<script type="text/template-dot" id="js-dot-listselect">
+	<div class="listSelect">
+		<div class="listSelect-head">
+			<div class="listSelect-headTitle">{{= it.selectedTitle }}</div>
+			<div class="listSelect-opener"></div>
+		</div>
+		<div class="listSelect-contentWrapper">
+			<div class="listSelect-content">
+				<div class="listSelect-inputWrapper">
+					<input type="text" class="listSelect-input">
+				</div>
+				<ul class="listSelect-contentList">
+				</ul>
+			</div>
+		</div>
+	</div>
+</script>
+<script type="text/template-dot" id="js-dot-selectblock-content">
+	<div class="selectblock-title">{{= it.options[ it.active ].title }}</div>
+	<div class="selectblock-contentHolder">
+		<div class="selectblock-content">
+			{{~ it.options :option:index}}
+				<a href="#" data-value="{{= option.value }}" class="selectblockItem {{? index == it.active }}is-active{{?}}">{{= option.title }}</a>
+			{{~}}
+		</div>
+	</div>
+</script>
+
+<!--Dependencies-->
+
+<!--Form scripts-->
+
+
+<!--Scripts-->
+
+
+  
+  <!-- header scripts, scripts, layers, closure, top_scripts, bottom_scripts -->
+  
+
+	<div class="lightbox is-hidden " id="lightbox-signin">
+    <div class="lightbox-overlay"></div>
+    <div class="lightbox-container custom-form-elements">
+        <h3 class="lightbox-title">
+            Var god logga in
+        </h3>
+        <div class="lightbox-content" id="participate-now-login-form">
+            <form class="webfront cta form-login form--oneLine" action="/save/https://www.verajohn.se/" method="post" id="whitelabel-user-signin-form" accept-charset="UTF-8" novalidate="1"><div><div class="form-item form-webfront-input-email required no-value" id="signin-mail-wrapper">
+<div class="field-wrap no-label"><input placeholder="Mejladress" type="email" id="signin-mail" name="mail" value="" size="30" maxlength="254" class="form-text required" /></div><div class="hint-wrap"></div></div>
+<div class="form-item form-password required no-value" id="signin-pass-wrapper">
+<div class="field-wrap no-label"><input placeholder="Lösenord" type="password" id="signin-pass" name="pass" size="30" maxlength="60" class="form-text required" /></div><div class="hint-wrap"></div></div>
+<input class="auto timezone" type="hidden" name="timezone" value="UTC" id="edit-timezone--2" />
+<input type="hidden" name="go_to_page" value="/" id="edit-go-to-page--2" />
+<button class="button form-submit" id="edit-submit-signin--2" name="op" value="Logga in" type="submit"><span>Logga in</span></button>
+<input type="hidden" name="form_build_id" value="form-M0eFEZa4oa9vokjkrUhaSGW-ldwkEOd1bbQW9-atXyM" id="form-M0eFEZa4oa9vokjkrUhaSGW-ldwkEOd1bbQW9-atXyM" />
+<input type="hidden" name="form_id" value="whitelabel_user_signin_form" id="edit-whitelabel-user-signin-form" />
+</div>
+
+<script type="text/javascript">
+webfront.forms.info = jQuery.extend(true, webfront.forms.info, {'whitelabel-user-signin-form': {validation: {"rules":{"mail":{"email":true,"required":true},"pass":{"required":true}}} }});</script>
+</form>
+                <a href="#" class="lightboxClose js-close"></a>
+        </div>
+    </div>
+</div>
+
+<!-- Rename ids in order to exlude error in console -->
+<script>
+    var loginInput = document.querySelector("#lightbox-signin #signin-mail");
+    var passInput = document.querySelector("#lightbox-signin #signin-pass");
+    loginInput.id = "signin-mail2";
+    passInput.id = "signin-pass2";
+</script>
+  
+  
+  
+	<div id="promo-content" style="display:none;"></div>
+<script type="text/javascript">
+  $(function(){
+  	var promoContent = $("#promo-content");
+  	var promoType = promoContent.find("#promotion-type").attr("data-type");
+	var contentMessage = promoContent.find(".promotion-popup");
+    var isShouldBeShown = promoContent.find("a[data-analytics-pagetitle]") > 0 ? true : (contentMessage.length > 0 && contentMessage.html().trim().length > 0);
+
+	if(isShouldBeShown && promoType != null)  {       
+	  webfront.openLayer(promoType == "login" ? "signin-promo" : "signout-promo", { content: promoContent.html(), destroyOnClose: true});
+	  Drupal.attachBehaviors();
+	}
+  });
+</script>
+  
+  
+
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 23:17:21 Feb 13, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:17:22 Feb 13, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
