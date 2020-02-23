@@ -1,0 +1,200 @@
+[0KRunning with gitlab-runner 12.7.1 (003fe500)
+[0;m[0K  on docker-auto-scale fa6cab46
+[0;msection_start:1581663167:prepare_executor[0K[0KUsing Docker executor with image registry.gitlab.com/gitlab-org/cluster-integration/auto-build-image/master:stable ...
+[0;m[0KStarting service docker:stable-dind ...
+[0;m[0KPulling docker image docker:stable-dind ...
+[0;m[0KUsing docker image sha256:a33335bfe8302f4d8a7688bc1fa539f2aba787ec724119be53adc4681702a3e7 for docker:stable-dind ...
+[0;m[0KWaiting for services to be up and running...
+[0;m
+[0;33m*** WARNING:[0;m Service runner-fa6cab46-project-16768419-concurrent-0-docker-0 probably didn't start properly.
+
+Health check error:
+service "runner-fa6cab46-project-16768419-concurrent-0-docker-0-wait-for-service" timeout
+
+Health check container logs:
+
+
+Service container logs:
+2020-02-14T06:53:13.446832228Z time="2020-02-14T06:53:13.416568462Z" level=info msg="Starting up"
+2020-02-14T06:53:13.446894842Z time="2020-02-14T06:53:13.417757304Z" level=warning msg="could not change group /var/run/docker.sock to docker: group docker not found"
+2020-02-14T06:53:13.446899741Z time="2020-02-14T06:53:13.417943637Z" level=warning msg="[!] DON'T BIND ON ANY IP ADDRESS WITHOUT setting --tlsverify IF YOU DON'T KNOW WHAT YOU'RE DOING [!]"
+2020-02-14T06:53:13.446903243Z time="2020-02-14T06:53:13.418713905Z" level=info msg="libcontainerd: started new containerd process" pid=18
+2020-02-14T06:53:13.446906506Z time="2020-02-14T06:53:13.418745126Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+2020-02-14T06:53:13.446909952Z time="2020-02-14T06:53:13.418753075Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+2020-02-14T06:53:13.446913478Z time="2020-02-14T06:53:13.418774619Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///var/run/docker/containerd/containerd.sock 0  <nil>}] <nil>}" module=grpc
+2020-02-14T06:53:13.446917511Z time="2020-02-14T06:53:13.418784683Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+2020-02-14T06:53:13.459348580Z time="2020-02-14T06:53:13.458424754Z" level=info msg="starting containerd" revision=35bd7a5f69c13e1563af8a93431411cd9ecf5021 version=v1.2.12 
+2020-02-14T06:53:13.459369149Z time="2020-02-14T06:53:13.458724720Z" level=info msg="loading plugin "io.containerd.content.v1.content"..." type=io.containerd.content.v1 
+2020-02-14T06:53:13.459382681Z time="2020-02-14T06:53:13.458810967Z" level=info msg="loading plugin "io.containerd.snapshotter.v1.btrfs"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.473963820Z time="2020-02-14T06:53:13.459551166Z" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.btrfs" error="path /var/lib/docker/containerd/daemon/io.containerd.snapshotter.v1.btrfs must be a btrfs filesystem to be used with the btrfs snapshotter" 
+2020-02-14T06:53:13.475056434Z time="2020-02-14T06:53:13.459572731Z" level=info msg="loading plugin "io.containerd.snapshotter.v1.aufs"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.475940803Z time="2020-02-14T06:53:13.470756730Z" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.aufs" error="modprobe aufs failed: "ip: can't find device 'aufs'\nmodprobe: can't change directory to '/lib/modules': No such file or directory\n": exit status 1" 
+2020-02-14T06:53:13.475955307Z time="2020-02-14T06:53:13.470778968Z" level=info msg="loading plugin "io.containerd.snapshotter.v1.native"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.475959768Z time="2020-02-14T06:53:13.470891175Z" level=info msg="loading plugin "io.containerd.snapshotter.v1.overlayfs"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.475963520Z time="2020-02-14T06:53:13.471065829Z" level=info msg="loading plugin "io.containerd.snapshotter.v1.zfs"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.475967168Z time="2020-02-14T06:53:13.471283640Z" level=info msg="skip loading plugin "io.containerd.snapshotter.v1.zfs"..." type=io.containerd.snapshotter.v1 
+2020-02-14T06:53:13.475970588Z time="2020-02-14T06:53:13.471292514Z" level=info msg="loading plugin "io.containerd.metadata.v1.bolt"..." type=io.containerd.metadata.v1 
+2020-02-14T06:53:13.475984201Z time="2020-02-14T06:53:13.471334897Z" level=warning msg="could not use snapshotter btrfs in metadata plugin" error="path /var/lib/docker/containerd/daemon/io.containerd.snapshotter.v1.btrfs must be a btrfs filesystem to be used with the btrfs snapshotter" 
+2020-02-14T06:53:13.475988144Z time="2020-02-14T06:53:13.471341916Z" level=warning msg="could not use snapshotter aufs in metadata plugin" error="modprobe aufs failed: "ip: can't find device 'aufs'\nmodprobe: can't change directory to '/lib/modules': No such file or directory\n": exit status 1" 
+2020-02-14T06:53:13.477641534Z time="2020-02-14T06:53:13.471349066Z" level=warning msg="could not use snapshotter zfs in metadata plugin" error="path /var/lib/docker/containerd/daemon/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter: skip plugin" 
+2020-02-14T06:53:13.525871133Z time="2020-02-14T06:53:13.498164539Z" level=info msg="loading plugin "io.containerd.differ.v1.walking"..." type=io.containerd.differ.v1 
+2020-02-14T06:53:13.525905234Z time="2020-02-14T06:53:13.498212787Z" level=info msg="loading plugin "io.containerd.gc.v1.scheduler"..." type=io.containerd.gc.v1 
+2020-02-14T06:53:13.525909807Z time="2020-02-14T06:53:13.498241965Z" level=info msg="loading plugin "io.containerd.service.v1.containers-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525913513Z time="2020-02-14T06:53:13.498255201Z" level=info msg="loading plugin "io.containerd.service.v1.content-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525916932Z time="2020-02-14T06:53:13.498265601Z" level=info msg="loading plugin "io.containerd.service.v1.diff-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525920333Z time="2020-02-14T06:53:13.498276165Z" level=info msg="loading plugin "io.containerd.service.v1.images-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525923902Z time="2020-02-14T06:53:13.498291095Z" level=info msg="loading plugin "io.containerd.service.v1.leases-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525927194Z time="2020-02-14T06:53:13.498306951Z" level=info msg="loading plugin "io.containerd.service.v1.namespaces-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525930426Z time="2020-02-14T06:53:13.498318142Z" level=info msg="loading plugin "io.containerd.service.v1.snapshots-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525933667Z time="2020-02-14T06:53:13.498329734Z" level=info msg="loading plugin "io.containerd.runtime.v1.linux"..." type=io.containerd.runtime.v1 
+2020-02-14T06:53:13.525936975Z time="2020-02-14T06:53:13.498613344Z" level=info msg="loading plugin "io.containerd.runtime.v2.task"..." type=io.containerd.runtime.v2 
+2020-02-14T06:53:13.525940191Z time="2020-02-14T06:53:13.498734057Z" level=info msg="loading plugin "io.containerd.monitor.v1.cgroups"..." type=io.containerd.monitor.v1 
+2020-02-14T06:53:13.525943545Z time="2020-02-14T06:53:13.499124063Z" level=info msg="loading plugin "io.containerd.service.v1.tasks-service"..." type=io.containerd.service.v1 
+2020-02-14T06:53:13.525946767Z time="2020-02-14T06:53:13.499160307Z" level=info msg="loading plugin "io.containerd.internal.v1.restart"..." type=io.containerd.internal.v1 
+2020-02-14T06:53:13.525962042Z time="2020-02-14T06:53:13.499199535Z" level=info msg="loading plugin "io.containerd.grpc.v1.containers"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525965520Z time="2020-02-14T06:53:13.499215667Z" level=info msg="loading plugin "io.containerd.grpc.v1.content"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525968807Z time="2020-02-14T06:53:13.499226808Z" level=info msg="loading plugin "io.containerd.grpc.v1.diff"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525972110Z time="2020-02-14T06:53:13.499236668Z" level=info msg="loading plugin "io.containerd.grpc.v1.events"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525975361Z time="2020-02-14T06:53:13.499246527Z" level=info msg="loading plugin "io.containerd.grpc.v1.healthcheck"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525978563Z time="2020-02-14T06:53:13.499259783Z" level=info msg="loading plugin "io.containerd.grpc.v1.images"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525981718Z time="2020-02-14T06:53:13.499273483Z" level=info msg="loading plugin "io.containerd.grpc.v1.leases"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525984949Z time="2020-02-14T06:53:13.499284790Z" level=info msg="loading plugin "io.containerd.grpc.v1.namespaces"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525988120Z time="2020-02-14T06:53:13.499294207Z" level=info msg="loading plugin "io.containerd.internal.v1.opt"..." type=io.containerd.internal.v1 
+2020-02-14T06:53:13.525991361Z time="2020-02-14T06:53:13.499561328Z" level=info msg="loading plugin "io.containerd.grpc.v1.snapshots"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525994687Z time="2020-02-14T06:53:13.499576136Z" level=info msg="loading plugin "io.containerd.grpc.v1.tasks"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.525997862Z time="2020-02-14T06:53:13.499586346Z" level=info msg="loading plugin "io.containerd.grpc.v1.version"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.527074952Z time="2020-02-14T06:53:13.499597225Z" level=info msg="loading plugin "io.containerd.grpc.v1.introspection"..." type=io.containerd.grpc.v1 
+2020-02-14T06:53:13.527079924Z time="2020-02-14T06:53:13.499809534Z" level=info msg=serving... address="/var/run/docker/containerd/containerd-debug.sock" 
+2020-02-14T06:53:13.527083461Z time="2020-02-14T06:53:13.499872333Z" level=info msg=serving... address="/var/run/docker/containerd/containerd.sock" 
+2020-02-14T06:53:13.527086683Z time="2020-02-14T06:53:13.499881221Z" level=info msg="containerd successfully booted in 0.042044s" 
+2020-02-14T06:53:13.527092197Z time="2020-02-14T06:53:13.518858379Z" level=info msg="Setting the storage driver from the $DOCKER_DRIVER environment variable (overlay2)"
+2020-02-14T06:53:13.527095616Z time="2020-02-14T06:53:13.520110786Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+2020-02-14T06:53:13.527099012Z time="2020-02-14T06:53:13.520128358Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+2020-02-14T06:53:13.527102434Z time="2020-02-14T06:53:13.520144787Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///var/run/docker/containerd/containerd.sock 0  <nil>}] <nil>}" module=grpc
+2020-02-14T06:53:13.527123694Z time="2020-02-14T06:53:13.520153782Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+2020-02-14T06:53:13.539258297Z time="2020-02-14T06:53:13.539149174Z" level=info msg="parsed scheme: \"unix\"" module=grpc
+2020-02-14T06:53:13.539360461Z time="2020-02-14T06:53:13.539315731Z" level=info msg="scheme \"unix\" not registered, fallback to default scheme" module=grpc
+2020-02-14T06:53:13.539451289Z time="2020-02-14T06:53:13.539393934Z" level=info msg="ccResolverWrapper: sending update to cc: {[{unix:///var/run/docker/containerd/containerd.sock 0  <nil>}] <nil>}" module=grpc
+2020-02-14T06:53:13.539508712Z time="2020-02-14T06:53:13.539475483Z" level=info msg="ClientConn switching balancer to \"pick_first\"" module=grpc
+2020-02-14T06:53:13.589962972Z time="2020-02-14T06:53:13.587322641Z" level=info msg="Loading containers: start."
+2020-02-14T06:53:13.615454730Z time="2020-02-14T06:53:13.613487725Z" level=warning msg="Running modprobe bridge br_netfilter failed with message: ip: can't find device 'bridge'\nbridge                167936  1 br_netfilter\nstp                    16384  1 bridge\nllc                    16384  2 bridge,stp\nip: can't find device 'br_netfilter'\nbr_netfilter           24576  0 \nbridge                167936  1 br_netfilter\nmodprobe: can't change directory to '/lib/modules': No such file or directory\n, error: exit status 1"
+2020-02-14T06:53:13.720148214Z time="2020-02-14T06:53:13.718866333Z" level=info msg="Default bridge (docker0) is assigned with an IP address 172.18.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+2020-02-14T06:53:13.781113945Z time="2020-02-14T06:53:13.780294903Z" level=info msg="Loading containers: done."
+2020-02-14T06:53:13.802921979Z time="2020-02-14T06:53:13.801915767Z" level=info msg="Docker daemon" commit=369ce74a3c graphdriver(s)=overlay2 version=19.03.6
+2020-02-14T06:53:13.802939321Z time="2020-02-14T06:53:13.802113332Z" level=info msg="Daemon has completed initialization"
+2020-02-14T06:53:13.853907453Z time="2020-02-14T06:53:13.853573283Z" level=info msg="API listen on [::]:2375"
+2020-02-14T06:53:13.853945898Z time="2020-02-14T06:53:13.853655021Z" level=info msg="API listen on /var/run/docker.sock"
+
+[0;33m*********[0;m
+
+[0KAuthenticating with credentials from job payload (GitLab Registry)
+[0;m[0KPulling docker image registry.gitlab.com/gitlab-org/cluster-integration/auto-build-image/master:stable ...
+[0;m[0KUsing docker image sha256:c114dffc16419102b42958970133bc5950c85961747ba2ed9d37741457d829df for registry.gitlab.com/gitlab-org/cluster-integration/auto-build-image/master:stable ...
+[0;msection_end:1581663230:prepare_executor[0Ksection_start:1581663230:prepare_script[0KRunning on runner-fa6cab46-project-16768419-concurrent-0 via runner-fa6cab46-srm-1581663121-9a20eb51...
+section_end:1581663234:prepare_script[0Ksection_start:1581663234:get_sources[0K[32;1m$ eval "$CI_PRE_CLONE_SCRIPT"[0;m
+[32;1mFetching changes with git depth set to 50...[0;m
+Initialized empty Git repository in /builds/sekhmet396gripen/root-me/.git/
+[32;1mCreated fresh repository.[0;m
+From https://gitlab.com/sekhmet396gripen/root-me
+ * [new ref]         refs/pipelines/117835449 -> refs/pipelines/117835449
+ * [new branch]      master                   -> origin/master
+[32;1mChecking out da71dcac as master...[0;m
+
+[32;1mSkipping Git submodules setup[0;m
+section_end:1581663236:get_sources[0Ksection_start:1581663236:restore_cache[0Ksection_end:1581663237:restore_cache[0Ksection_start:1581663237:download_artifacts[0Ksection_end:1581663239:download_artifacts[0Ksection_start:1581663239:build_script[0K[0KAuthenticating with credentials from job payload (GitLab Registry)
+[0;m[32;1m$ if [[ -z "$CI_COMMIT_TAG" ]]; then # collapsed multi-line command[0;m
+[32;1m$ /build/build.sh[0;m
+Logging to GitLab Container Registry with CI credentials...
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+Building Heroku-based application using gliderlabs/herokuish docker image...
+Error response from daemon: manifest for registry.gitlab.com/sekhmet396gripen/root-me/master:0000000000000000000000000000000000000000 not found: manifest unknown: manifest unknown
+Error response from daemon: manifest for registry.gitlab.com/sekhmet396gripen/root-me/master:latest not found: manifest unknown: manifest unknown
+Sending build context to Docker daemon  24.06kB
+Step 1/11 : FROM gliderlabs/herokuish as builder
+latest: Pulling from gliderlabs/herokuish
+7ddbc47eeb70: Pulling fs layer
+c1bbdc448b72: Pulling fs layer
+8c3b70e39044: Pulling fs layer
+45d437916d57: Pulling fs layer
+04d295ac3bcf: Pulling fs layer
+9d068b6c6d2d: Pulling fs layer
+4f40885b4acf: Pulling fs layer
+ce3f20cd1a97: Pulling fs layer
+371fd627d42b: Pulling fs layer
+a5f685618557: Pulling fs layer
+156256c80912: Pulling fs layer
+3408e9b4c6d5: Pulling fs layer
+e7bec7ae2b25: Pulling fs layer
+45d437916d57: Waiting
+04d295ac3bcf: Waiting
+9d068b6c6d2d: Waiting
+4f40885b4acf: Waiting
+ce3f20cd1a97: Waiting
+371fd627d42b: Waiting
+a5f685618557: Waiting
+156256c80912: Waiting
+3408e9b4c6d5: Waiting
+e7bec7ae2b25: Waiting
+8c3b70e39044: Verifying Checksum
+8c3b70e39044: Download complete
+c1bbdc448b72: Verifying Checksum
+c1bbdc448b72: Download complete
+7ddbc47eeb70: Verifying Checksum
+7ddbc47eeb70: Download complete
+45d437916d57: Verifying Checksum
+45d437916d57: Download complete
+04d295ac3bcf: Verifying Checksum
+04d295ac3bcf: Download complete
+4f40885b4acf: Verifying Checksum
+4f40885b4acf: Download complete
+9d068b6c6d2d: Verifying Checksum
+9d068b6c6d2d: Download complete
+371fd627d42b: Verifying Checksum
+371fd627d42b: Download complete
+a5f685618557: Verifying Checksum
+a5f685618557: Download complete
+ce3f20cd1a97: Verifying Checksum
+ce3f20cd1a97: Download complete
+156256c80912: Verifying Checksum
+156256c80912: Download complete
+3408e9b4c6d5: Verifying Checksum
+3408e9b4c6d5: Download complete
+e7bec7ae2b25: Verifying Checksum
+e7bec7ae2b25: Download complete
+7ddbc47eeb70: Pull complete
+c1bbdc448b72: Pull complete
+8c3b70e39044: Pull complete
+45d437916d57: Pull complete
+04d295ac3bcf: Pull complete
+9d068b6c6d2d: Pull complete
+4f40885b4acf: Pull complete
+ce3f20cd1a97: Pull complete
+371fd627d42b: Pull complete
+a5f685618557: Pull complete
+156256c80912: Pull complete
+3408e9b4c6d5: Pull complete
+e7bec7ae2b25: Pull complete
+Digest: sha256:8f1179da71a807389de45253adc2688c8c7a1192b2cdda7fcb679018f9ce9661
+Status: Downloaded newer image for gliderlabs/herokuish:latest
+ ---> e18d30a218dd
+Step 2/11 : COPY . /tmp/app
+ ---> aaa008ce68f7
+Step 3/11 : ARG BUILDPACK_URL
+ ---> Running in 985b48327e41
+Removing intermediate container 985b48327e41
+ ---> 13d8765d2300
+Step 4/11 : ENV USER=herokuishuser
+ ---> Running in 491312f07610
+Removing intermediate container 491312f07610
+ ---> ad57403d940a
+Step 5/11 : RUN /bin/herokuish buildpack build
+ ---> Running in 0260eda89a50
+[1G       [1G-----> Unable to select a buildpack
+The command '/bin/sh -c /bin/herokuish buildpack build' returned a non-zero code: 1
+section_end:1581663287:build_script[0Ksection_start:1581663287:after_script[0Ksection_end:1581663289:after_script[0Ksection_start:1581663289:upload_artifacts_on_failure[0Ksection_end:1581663290:upload_artifacts_on_failure[0K[31;1mERROR: Job failed: exit code 1
+[0;m
